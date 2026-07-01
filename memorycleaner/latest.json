@@ -1,0 +1,12 @@
+{
+    "version":  1782932682,
+    "arch":  "x86",
+    "cipher":  "AES-256-CBC",
+    "mac":  "HMAC-SHA256",
+    "size":  210432,
+    "cipher_size":  210448,
+    "iv":  "ab424576a65d5b0b7fda6b3a03679483",
+    "mac_value":  "f124e1014753ebbe768f6bbf4d804560b022aff234bb3949be692e69ebf418ff",
+    "sha256":  "f8198c9135ac15f3b98c80064f0634756144580f4cc8818620509254adfd7d9a",
+    "payload_file":  "payload.bin"
+}
